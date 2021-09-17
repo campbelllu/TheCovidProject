@@ -1,3 +1,6 @@
 9/11/21
 First SQL script published via browser!
 Stage one covered the making of the database, adding CSV's for use, and then scripting to access and manipulate those data.
+
+9/14/21
+Put CSV's into Tableau. Learned how to manipulate CSV's to create dashboards. Dashboards uploaded to Tableau Public.
